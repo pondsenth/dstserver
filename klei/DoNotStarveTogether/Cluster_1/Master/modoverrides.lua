@@ -16,14 +16,35 @@ return {  -- { return
 	--Infinite Tent Uses
 	["workshop-356930882"] = { enabled = true},
 	
-	--Mineable Gems
-	["workshop-380423963"] = { enabled = true},
+	
+	["workshop-380423963"] = { --Mineable Gems
+			enabled = true,
+			onfiguration_options =
+			{
+				["goldvein_red"] = 0.2, -- Red gem 
+				["flintless_red"] = 0.5, -- Red gem 
+			}
+	}, --Mineable Gems
 	
 	--Don't Drop Everything
 	["workshop-661253977"] = { enabled = true},
 	
-	--Quick Actions
-	["workshop-700236083"] = { enabled = true},
+	
+	["workshop-700236083"] = { --Quick Actions
+			enabled = true,
+			onfiguration_options =
+			{
+			-- description = "Short", data = 0 
+			-- description = "Long", data = 1 
+			
+				["cook"] = 0, -- 
+				["resetmine"] = 0, -- 
+				["harvest"] = 0, -- 
+				["berrybush"] = 0, -- 
+				["berrybush2"] = 0, -- 
+				["grass"] = 0, -- 
+			}
+	}, --Quick Actions
 	
 	--Less lags
 	["workshop-597417408"] = { enabled = true},
@@ -64,8 +85,16 @@ return {  -- { return
 	--Rem
 	["workshop-751626040"] = { enabled = true},
 	
-	--The Engineer
-	["workshop-791838548"] = { enabled = true},
+	
+	["workshop-791838548"] = { --The Engineer
+			enabled = true,
+			onfiguration_options =
+				{
+						["Teleporter_Difficulty"] = "easy", -- 
+						["Sentry_Range"] = 20, -- 
+						["Sentry_Damage"] = 20, -- 
+				}
+	},--The Engineer
 	
 	--Caopr
 	["workshop-781708540"] = { enabled = true},
@@ -74,7 +103,7 @@ return {  -- { return
 	["workshop-828661813"] = { enabled = true},
 	
 	--Erik The Tennis Player
-	["workshop-839280973"] = { enabled = true},
+	--["workshop-839280973"] = { enabled = true},
 	
 	--Elphelt Valentine
 	["workshop-591258809"] = { enabled = true},

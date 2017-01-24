@@ -33,7 +33,7 @@ ServerModSetup("751626040") --Rem
 ServerModSetup("791838548") --The Engineer
 ServerModSetup("781708540") --Caopr
 ServerModSetup("828661813") --Ninja Brian
-ServerModSetup("839280973") --Erik The Tennis Player
+--ServerModSetup("839280973") --Erik The Tennis Player
 ServerModSetup("591258809") --Elphelt Valentine
 ServerModSetup("847991972") --Kiana Kaslana DST
 
