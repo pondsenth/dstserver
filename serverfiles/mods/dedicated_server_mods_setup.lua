@@ -14,7 +14,7 @@
 ServerModSetup("356930882") --Infinite Tent Uses
 ServerModSetup("380423963") --Mineable Gems
 ServerModSetup("462434129") --Restart
-ServerModSetup("661253977") --Don't Starve Together
+ServerModSetup("661253977") --Don't Drop Everything
 ServerModSetup("700236083") --Quick Actions
 ServerModSetup("597417408") --Less lags
 ServerModSetup("378160973") --Global Positions
