@@ -102,9 +102,6 @@ return {  -- { return
 	--Ninja Brian
 	["workshop-828661813"] = { enabled = true},
 	
-	--Erik The Tennis Player
-	--["workshop-839280973"] = { enabled = true},
-	
 	--Elphelt Valentine
 	["workshop-591258809"] = { enabled = true},
 	
