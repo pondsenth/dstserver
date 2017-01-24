@@ -15,7 +15,7 @@ return {
 	["workshop-356930882"] = { enabled = true},
 	--Mineable Gems
 	["workshop-380423963"] = { enabled = true},
-	--Don't Starve Together
+	--Don't Drop Everything
 	["workshop-661253977"] = { enabled = true},
 	--Quick Actions
 	["workshop-700236083"] = { enabled = true},
