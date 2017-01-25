@@ -23,8 +23,8 @@ ServerModSetup("347079953") --Display Food Values
 ServerModSetup("791937426") --Faster Farm
 ServerModSetup("722788575") --Your Rules!
 ServerModSetup("679636739") --Trap Reset
-ServerModSetup("346968521") --DST In Wilson's House
---ServerModSetup("802684956") --about rocks  ****Bug
+--ServerModSetup("346968521") --DST In Wilson's House ****Bug
+ServerModSetup("802684956") --about rocks  
 
 --character
 ServerModSetup("379628839") --The Medic
