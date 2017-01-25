@@ -68,7 +68,7 @@ return {  -- { return
 	["workshop-679636739"] = { enabled = true},
 	
 	--DST In Wilson's House
-	--["workshop-346968521"] = { enabled = true}, ****Bug
+	["workshop-346968521"] = { enabled = true}, 
 	
 	
 	--Charecter-------------------------------
@@ -106,10 +106,10 @@ return {  -- { return
 	["workshop-591258809"] = { enabled = true},
 	
 	--Kiana Kaslana DST
-	["workshop-847991972"] = { enabled = true},
+	["workshop-847991972"] = { enabled = true}
 	
 	--about rocks
-	["workshop-802684956"] = { enabled = true} 
+	--["workshop-802684956"] = { enabled = true} ****Bug
 
 
 }-- } return
