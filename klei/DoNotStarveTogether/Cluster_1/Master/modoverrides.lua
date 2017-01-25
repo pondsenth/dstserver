@@ -109,7 +109,7 @@ return {  -- { return
 	["workshop-847991972"] = { enabled = true},
 	
 	--about rocks
-	["workshop-802684956"] = { enabled = true}
+	--["workshop-802684956"] = { enabled = true} ****Bug
 
 
 }-- } return
