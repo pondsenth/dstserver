@@ -39,3 +39,5 @@ ServerModSetup("1427073707") --Toshinori Yagi (All Might)
 ServerModSetup("1384610892") --HK 416
 ServerModSetup("1108032281") --[DST] WhaRang
 ServerModSetup("590947472") --Speed o' Sound Sonic
+ServerModSetup("598842237") --Genos
+ServerModSetup("1860824969") --[DST] Jack Frost
