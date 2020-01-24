@@ -68,9 +68,14 @@ return {  -- { return
 	["workshop-679636739"] = { enabled = true},
 	
 	--DST In Wilson's House
-	["workshop-346968521"] = { enabled = true}, 
+	["workshop-346968521"] = { enabled = true},
 	
+	--Increased Stack size
+	["workshop-1878212389"] = { enabled = true},
 	
+	--Fire resurrection
+	["workshop-676297854"] = { enabled = true}
+
 	--Charecter-------------------------------
 
 	--The Medic
@@ -106,7 +111,36 @@ return {  -- { return
 	["workshop-591258809"] = { enabled = true},
 	
 	--Kiana Kaslana DST
-	["workshop-847991972"] = { enabled = true}
-
-
+	["workshop-847991972"] = { enabled = true},
+	
+	--Toshinori Yagi (All Might)
+	["workshop-1427073707"] = { enbled = true},
+	
+	--HK 416
+	["workshop-1384610892"] = { enabled = true},
+	
+	--[DST] WhaRang
+	["workshop-1108032281"] = { enabled = true},
+	
+	--Speed o' Sound Sonic
+	["workshop-590947472"] = { enabled = true},
+	
+	--Genos
+	["workshop-598842237"] = { enabled = true},
+	
+	--[DST] Jack Frost
+	["workshop-1860824969"] = { enabled = true},
+	
+	--[Arknights]Amiya
+	["workshop-892210190"] = { enabled = true},
+	
+	--Saitama(One Punch Man)
+	["workshop-566155039"] = { Enabled = true},
+	
+	--[Onmyoji]Teruterubozu~The sunny fairy
+	["workshop-1899182767"] = { Enabled = true},
+	
+	--Madoka Kaname(Puella Magi Madoka Magica)
+ 	["workshop-461627386"] = { Enabled = true}
+	
 }-- } return
