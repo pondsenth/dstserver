@@ -114,7 +114,7 @@ return {  -- { return
 	["workshop-847991972"] = { enabled = true},
 	
 	--Toshinori Yagi (All Might)
-	["workshop-1427073707"] = { enbled = true},
+	["workshop-1427073707"] = { enabled = true},
 	
 	--HK 416
 	["workshop-1384610892"] = { enabled = true},
@@ -135,12 +135,12 @@ return {  -- { return
 	["workshop-892210190"] = { enabled = true},
 	
 	--Saitama(One Punch Man)
-	["workshop-566155039"] = { Enabled = true},
+	["workshop-566155039"] = { enabled = true},
 	
 	--[Onmyoji]Teruterubozu~The sunny fairy
-	["workshop-1899182767"] = { Enabled = true},
+	["workshop-1899182767"] = { enabled = true},
 	
 	--Madoka Kaname(Puella Magi Madoka Magica)
- 	["workshop-461627386"] = { Enabled = true}
+ 	["workshop-461627386"] = { enabled = true}
 	
 }-- } return
