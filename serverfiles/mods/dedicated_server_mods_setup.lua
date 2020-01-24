@@ -36,4 +36,6 @@ ServerModSetup("828661813") --Ninja Brian
 ServerModSetup("591258809") --Elphelt Valentine
 ServerModSetup("847991972") --Kiana Kaslana DST
 ServerModSetup("1427073707") --Toshinori Yagi (All Might)
-
+ServerModSetup("1384610892") --HK 416
+ServerModSetup("1108032281") --[DST] WhaRang
+ServerModSetup("590947472") --Speed o' Sound Sonic
