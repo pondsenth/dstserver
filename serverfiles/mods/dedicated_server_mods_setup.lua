@@ -46,3 +46,4 @@ ServerModSetup("1860824969") --[DST] Jack Frost
 ServerModSetup("892210190") --[Arknights]Amiya
 ServerModSetup("566155039") --Saitama(One Punch Man)
 ServerModSetup("1899182767") --[Onmyoji]Teruterubozu~The sunny fairy
+ServerModSetup("461627386") --Madoka Kaname(Puella Magi Madoka Magica)
