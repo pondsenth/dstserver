@@ -132,7 +132,7 @@ return {  -- { return
 	["workshop-1860824969"] = { enabled = true},
 	
 	--[Arknights]Amiya
-	["workshop-892210190"] = { enabled = true},
+	["workshop-1892210190"] = { enabled = true},
 	
 	--Saitama(One Punch Man)
 	["workshop-566155039"] = { enabled = true},
