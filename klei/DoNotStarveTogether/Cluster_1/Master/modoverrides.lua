@@ -74,7 +74,7 @@ return {  -- { return
 	["workshop-1878212389"] = { enabled = true},
 	
 	--Fire resurrection
-	["workshop-676297854"] = { enabled = true}
+	["workshop-676297854"] = { enabled = true},
 
 	--Charecter-------------------------------
 

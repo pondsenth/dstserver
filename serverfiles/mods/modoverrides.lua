@@ -141,6 +141,6 @@ return {  -- { return
 	["workshop-1899182767"] = { Enabled = true},
 	
 	--Madoka Kaname(Puella Magi Madoka Magica)
- 	["workshop-461627386"] = { Enabled = true}
+ 	["workshop-461627386"] = { Enabled = true},
 	
 }-- } return
