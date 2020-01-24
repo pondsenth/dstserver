@@ -24,6 +24,7 @@ ServerModSetup("791937426") --Faster Farm
 ServerModSetup("722788575") --Your Rules!
 ServerModSetup("679636739") --Trap Reset
 ServerModSetup("346968521") --DST In Wilson's House 
+ServerModSetup("1878212389") --Increased Stack size
 
 --character
 ServerModSetup("379628839") --The Medic
@@ -41,3 +42,4 @@ ServerModSetup("1108032281") --[DST] WhaRang
 ServerModSetup("590947472") --Speed o' Sound Sonic
 ServerModSetup("598842237") --Genos
 ServerModSetup("1860824969") --[DST] Jack Frost
+ServerModSetup("892210190") --[Arknights]Amiya
