@@ -25,6 +25,7 @@ ServerModSetup("722788575") --Your Rules!
 ServerModSetup("679636739") --Trap Reset
 ServerModSetup("346968521") --DST In Wilson's House 
 ServerModSetup("1878212389") --Increased Stack size
+ServerModSetup("676297854") --Fire resurrection
 
 --character
 ServerModSetup("379628839") --The Medic
@@ -43,3 +44,5 @@ ServerModSetup("590947472") --Speed o' Sound Sonic
 ServerModSetup("598842237") --Genos
 ServerModSetup("1860824969") --[DST] Jack Frost
 ServerModSetup("892210190") --[Arknights]Amiya
+ServerModSetup("566155039") --Saitama(One Punch Man)
+ServerModSetup("1899182767") --[Onmyoji]Teruterubozu~The sunny fairy
