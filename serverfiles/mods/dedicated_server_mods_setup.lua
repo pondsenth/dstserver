@@ -35,5 +35,5 @@ ServerModSetup("781708540") --Caopr
 ServerModSetup("828661813") --Ninja Brian
 ServerModSetup("591258809") --Elphelt Valentine
 ServerModSetup("847991972") --Kiana Kaslana DST
-
+ServerModSetup("1427073707") --Toshinori Yagi (All Might)
 
